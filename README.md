@@ -16,6 +16,7 @@ Tools for downloading the EPG (Electronic Program Guide) for thousands of TV cha
 - 📄 [License](#license)
 
 ## Installation
+## By Mudassir Alam
 
 First, you need to install [Node.js](https://nodejs.org/en) on your computer. You will also need to install [Git](https://git-scm.com/downloads) to follow these instructions.
 
